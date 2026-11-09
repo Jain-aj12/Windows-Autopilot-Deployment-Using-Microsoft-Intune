@@ -1,0 +1,2 @@
+# Windows-Autopilot-Deployment-Using-Microsoft-Intune
+This project demonstrates automated Windows device provisioning and enrollment using Microsoft Intune and Windows Autopilot. It covers hardware hash registration, Microsoft Entra ID integration, deployment profile configuration, Enrollment Status Page (ESP), device enrollment, and PowerShell-based management to simplify enterprise device deployment
